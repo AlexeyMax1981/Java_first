@@ -1,8 +1,8 @@
 public class bonus_mili {
     public static void main(String[] args) {
-        int x = 120;
-        int s = x / 20;
-            System.out.println("Количество бонусных миль = " + s);
+        int myTicketPrice = 120;
+        int myBonus = myTicketPrice / 20;
+            System.out.println("Количество бонусных миль = " + myBonus);
         }
 
 
